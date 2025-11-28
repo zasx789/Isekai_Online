@@ -9,9 +9,6 @@ cd Isekai_Online
 python run.py
 ```
 
-### Test Credentials
-- **Username:** 1
-- **Password:** 1
 
 Or create a new account using the same credentials.
 
@@ -184,5 +181,6 @@ python main.py
 For bugs or issues, check the console output for error messages. The game logs all important events.
 
 ---
+
 
 **Enjoy your adventure in Isekai Online! The journey back home awaits! ⚔️✨**
